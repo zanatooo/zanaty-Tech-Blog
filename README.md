@@ -5,7 +5,7 @@ Writing about tech can be just as important as making it. Developers spend plent
 
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I built this site completely from scratch and deployed it to Heroku.
 
-My app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+My app follows the MVC paradigm in its architectural structure,
 
 User Story
 
