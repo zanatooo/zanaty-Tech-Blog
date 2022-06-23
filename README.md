@@ -1,11 +1,16 @@
 # zanaty-Tech-Blog
 Your Task
+
 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
 
-Your challenge this week is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. You’ll build this site completely from scratch and deploy it to Heroku. Your app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I built this site completely from scratch and deployed it to Heroku.
+
+My app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 User Story
-AS A developer who writes about tech
+
+AS A developer who writes about tech:
+
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 Acceptance Criteria
@@ -42,15 +47,22 @@ WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
+
 Mock-Up
+
 The following animation demonstrates the application functionality:
 
 Animation cycles through signing into the app, clicking on buttons, and updating blog posts.
-Getting Started
-Your application’s folder structure must follow the Model-View-Controller paradigm. You’ll need to use the express-handlebars (Links to an external site.) package to use Handlebars.js for your Views, use the MySQL2 (Links to an external site.) and Sequelize (Links to an external site.) packages to connect to a MySQL database for your Models, and create an Express.js API for your Controllers.
 
-You’ll also need the dotenv package (Links to an external site.) to use environment variables, the bcrypt package (Links to an external site.) to hash passwords, and the express-session (Links to an external site.) and connect-session-sequelize (Links to an external site.) packages to add authentication.
+Getting Started
+
+My application’s folder structure follows the Model-View-Controller paradigm. I used the express-handlebars (Links to an external site.) package to use Handlebars.js for my Views, used the MySQL2 (Links to an external site.) and Sequelize (Links to an external site.) packages to connect to a MySQL database for my Models, and create an Express.js API for my Controllers.
+
+I also added the dotenv package (Links to an external site.) to use environment variables, the bcrypt package (Links to an external site.) to hash passwords, and the express-session (Links to an external site.) and connect-session-sequelize (Links to an external site.) packages to add authentication.
 
 NOTE
-The express-session (Links to an external site.) package stores the session data on the client in a cookie. When you are idle on the site for more than a set time, the cookie will expire and you will be required to log in again to start a new session. This is the default behavior and you do not have to do anything to your application other than implement the npm package.
+The express-session (Links to an external site.) package stores the session data on the client in a cookie. When I'm idle on the site for more than a set time, the cookie will expire and I'll be required to log in again to start a new session. This is the default behavior and I do not have to do anything to my application other than implement the npm package.
+
+Developer:
+Mohammed Elzanaty
 
