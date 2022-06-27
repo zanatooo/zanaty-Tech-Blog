@@ -3,6 +3,8 @@
 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
 
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I built this site completely from scratch and deployed it to Heroku.
+[Heroku Link](https://zanaty-tech-blog.herokuapp.com/)
+[git link](https://zanatooo.github.io/zanaty-Tech-Blog/)
 
 My app follows the MVC paradigm in its architectural structure,
 
