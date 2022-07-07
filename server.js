@@ -1,4 +1,5 @@
 const express = require('express');
+  
 const sequelize = require('./config/connection');
 const path = require('path');
 const routes = require('./controllers');
@@ -10,7 +11,7 @@ const helpers = require('./utils/helpers');
 require('dotenv').config();
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3002;
 
 //setup session
 const sess = {
