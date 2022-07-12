@@ -4,7 +4,7 @@ Writing about tech can be just as important as making it. Developers spend plent
 
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I built this site completely from scratch and deployed it to Heroku.
 
-[Heroku Link](https://zanaty-tech-blog.herokuapp.com/)
+[Heroku Link](https://zanaty-techblog.herokuapp.com/)
 ------
 [git link](https://zanatooo.github.io/zanaty-Tech-Blog/)
 ------
