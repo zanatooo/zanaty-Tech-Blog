@@ -19,6 +19,18 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 [Screenshot](./assets/Screen%20Shot%202022-07-06%20at%209.07.01%20PM.png)
 [Screenshot](./assets/Screen%20Shot%202022-07-06%20at%209.08.25%20PM.png)
 
+![Screen Shot 2022-07-06 at 8 44 17 PM](https://user-images.githubusercontent.com/67457318/179900722-6fb3df71-0d77-405d-8463-1f5349aa6b6a.png)
+![Screen Shot 2022-07-06 at 8 46 18 PM](https://user-images.githubusercontent.com/67457318/179900774-812e7e32-c708-4817-9acf-9455e806944f.png)
+![Screen Shot 2022-07-06 at 8 53 03 PM](https://user-images.githubusercontent.com/67457318/179900787-2a3f7f06-f23f-4e57-8d62-49c042bd54db.png)
+![Screen Shot 2022-07-06 at 8 54 17 PM](https://user-images.githubusercontent.com/67457318/179900810-ee9dc7e8-cba4-43ba-a664-576c503bacd2.png)
+![Screen Shot 2022-07-06 at 8 55 30 PM](https://user-images.githubusercontent.com/67457318/179900843-10c8ae83-1b9a-4261-bb87-742d4c7f929f.png)
+![Screen Shot 2022-07-06 at 8 56 06 PM](https://user-images.githubusercontent.com/67457318/179900878-07397592-2acb-44d2-a336-119fa80d6bc4.png)
+![Screen Shot 2022-07-06 at 9 05 41 PM](https://user-images.githubusercontent.com/67457318/179900934-1ec1e4e4-3aa3-4055-a4f3-18e4914d7c5e.png)
+![Screen Shot 2022-07-06 at 9 05 41 PM](https://user-images.githubusercontent.com/67457318/179901026-3dddaaf1-9863-49fc-aeb1-6586a063c561.png)
+![Screen Shot 2022-07-06 at 9 07 01 PM](https://user-images.githubusercontent.com/67457318/179901063-ce310417-1dbf-45a3-8b5c-4f742e567fdb.png)
+![Screen Shot 2022-07-06 at 9 08 25 PM](https://user-images.githubusercontent.com/67457318/179901093-0ef81fee-9116-42d7-b83f-49106088cff2.png)
+
+
 My app follows the MVC paradigm in its architectural structure,
 
 User Story
