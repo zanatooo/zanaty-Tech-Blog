@@ -36,7 +36,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(session(sess));
 
 //use routes
-app.get("/",(req, res)=> {res.send("It works")})
 app.use(routes);
 
 sequelize.sync({ force: false }).then(() => {

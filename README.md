@@ -8,7 +8,6 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 ------
 [git link](https://zanatooo.github.io/zanaty-Tech-Blog/)
 ------
-[Screenshot](./assets/Screen%20Shot%202022-07-06%20at%208.44.17%20PM.png)
 [Screenshot](./assets/Screen%20Shot%202022-07-06%20at%208.46.18%20PM.png)
 [Screenshot](./assets/Screen%20Shot%202022-07-06%20at%208.53.03%20PM.png)
 [Screenshot](./assets/Screen%20Shot%202022-07-06%20at%208.54.17%20PM.png)
