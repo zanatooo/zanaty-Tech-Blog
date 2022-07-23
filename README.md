@@ -8,6 +8,11 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 ------
 [git link](https://zanatooo.github.io/zanaty-Tech-Blog/)
 ------
+
+Mock-Up
+
+The following screenshots demonstrate the application functionality:
+
 [Screenshot](./assets/Screen%20Shot%202022-07-06%20at%208.46.18%20PM.png)
 [Screenshot](./assets/Screen%20Shot%202022-07-06%20at%208.53.03%20PM.png)
 [Screenshot](./assets/Screen%20Shot%202022-07-06%20at%208.54.17%20PM.png)
@@ -71,11 +76,6 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
-Mock-Up
-
-The following animation demonstrates the application functionality:
-
-Animation cycles through signing into the app, clicking on buttons, and updating blog posts.
 
 Getting Started
 
